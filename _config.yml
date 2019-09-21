@@ -18,12 +18,12 @@ avatar: https://www.cheatsheet.com/wp-content/uploads/2019/09/angelina-jolie-aff
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: btian1@ualberta.ca
   facebook:
   flickr:
   github: barryclark/jekyll-now
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/bowen-tian-522902134/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
@@ -39,9 +39,9 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Your webURL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://bowencocotian.github.io/cocotian.github.io/
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
